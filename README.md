@@ -17,11 +17,12 @@ A responsive tourism website showcasing the **natural beauty, tourist attraction
 
 ## 📸 Screenshots
 
-*Add screenshots of the website here.*
+<img width="1520" height="781" alt="image" src="https://github.com/user-attachments/assets/ed2bb862-2202-4a2f-ba30-57e3b0d5cb1a" />
+
 
 ## 🌐 Live Demo
 
-[View Live Website]()
+(https://sajidha19.github.io/Meghalaya-Tourism-Website/)
 
 ## 🎓 Project
 
