@@ -22,7 +22,7 @@ A responsive tourism website showcasing the **natural beauty, tourist attraction
 
 ## 🌐 Live Demo
 
-(https://sajidha19.github.io/Meghalaya-Tourism-Website/)
+https://sajidha19.github.io/Meghalaya-Tourism-Website/
 
 ## 🎓 Project
 
