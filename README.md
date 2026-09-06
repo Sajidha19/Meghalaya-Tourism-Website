@@ -29,5 +29,5 @@ This website was developed as part of my **first-year BSc (Hons) Computing** stu
 
 ## 👩‍💻 Author
 
-**Rasmi Yusuf**
+**Sajidha Ayub Basha**
 BSc (Hons) Computing Student
